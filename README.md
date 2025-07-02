@@ -3,6 +3,10 @@
 # Responsive Login Page with Blurred Background
 This project is a responsive login form with a modern UI design featuring a blurred background effect. It is built using HTML and CSS only, with no external libraries or frameworks.
 
+## 🚀 Live Demo
+
+Check out the deployed site here: [View Live](https://aarohi-sinha.github.io/SignInPage/)
+
 ## 📁 Features
 - Responsive design for both desktop and mobile devices
 - Transparent blurred login container
